@@ -19,7 +19,7 @@ export function Navbar() {
         {/* Logo */}
         <div className="flex items-center">
           <Link href="/" className="text-2xl font-bold text-gray-100 hover:text-gray-500">
-            OSAMA BLOG
+            GAMING BLOG
           </Link>
         </div>
 
